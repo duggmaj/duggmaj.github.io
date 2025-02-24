@@ -12,4 +12,4 @@ http://duggmaj.github.io/
 
 Portfolio Page:
 
-http:/duggmaj.github.io/Portfolio.html/
+http://duggmaj.github.io/Portfolio.html/
