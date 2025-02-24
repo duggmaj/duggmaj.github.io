@@ -10,4 +10,4 @@ And, soon, you can see my customized homepage at:
 
 http://duggmaj.github.io/
 
-Portfolio page @ http:/githubcom/duggmaj
+http:/duggmaj.github.io/Portfolio.html
